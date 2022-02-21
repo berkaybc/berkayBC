@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **cetin.bartug@metu.edu.tr**
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
