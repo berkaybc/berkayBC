@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=berkayBC&style=flat)
 
-<br>
-
 - 🎓 I'm currently studying Computer Science and Engineering at Middle East Technical University.
 
 - 🌱 I’m currently learning [**Swift**](https://github.com/berkayBC/100daysSwift) and pretty much everything.
