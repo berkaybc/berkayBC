@@ -6,7 +6,7 @@
 
 - 🎓 I'm currently studying Computer Science and Engineering at Middle East Technical University.
 
-- 🌱 I’m currently learning [**Swift**](https://github.com/berkayBC/100daysSwift) and pretty much everything.
+- 🌱 I’m currently learning pretty much everything.
 
 - 📫 How to reach me **cetin.bartug@metu.edu.tr**
 
