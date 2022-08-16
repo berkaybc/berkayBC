@@ -28,5 +28,3 @@
 </p>
 
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayBC&show_icons=true&theme=dark&hide_border=true&locale=en" alt="berkayBC" /></p>
