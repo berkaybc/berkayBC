@@ -6,7 +6,7 @@
 
 - 🎓 I'm currently studying Computer Science and Engineering at Middle East Technical University.
 
-- 🌱 Learning Swift and mobile developmepment nowadays.
+- 🌱 Learning Swift and mobile development nowadays.
 
 - 📫 How to reach me **cetin.bartug@metu.edu.tr**
 
