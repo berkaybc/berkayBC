@@ -2,13 +2,13 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=berkayBC&style=flat)
+- 🎓 I'm a senior student in [Computer Engineering](https://ceng.metu.edu.tr/) department of [Middle East Technical University](https://www.metu.edu.tr/tr). 
 
-- 🎓 I'm currently studying Computer Science and Engineering at Middle East Technical University.
+- 📍 Working as a part-time developer at [Otsimo](https://otsimo.com/en/).
 
-- 🌱 Learning Swift and mobile development nowadays.
+- ⚛ Learning responsive mobile development with React Native nowadays.
 
-- 📫 How to reach me **cetin.bartug@metu.edu.tr**
+- 📧 React me at **cetin.bartug@metu.edu.tr**.
 
 
 <h3 align="left">Connect with me:</h3>
