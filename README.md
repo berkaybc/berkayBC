@@ -2,11 +2,11 @@
 
 <br>
 
-- 🎓 I'm a senior student in [Computer Engineering](https://ceng.metu.edu.tr/) department of [Middle East Technical University](https://www.metu.edu.tr/tr). 
+- 🎓 Senior student in [Computer Engineering](https://ceng.metu.edu.tr/) department of [Middle East Technical University](https://www.metu.edu.tr/tr). 
 
 - 📍 Working as a part-time developer at [Otsimo](https://otsimo.com/en/).
 
-- ⚛ Learning responsive mobile development with React Native nowadays.
+- ⚛ Learning responsive mobile development with React Native & Swift nowadays.
 
 - 📧 React me at **cetin.bartug@metu.edu.tr**.
 
