@@ -2,9 +2,9 @@
 
 <br>
 
-- 🎓 Senior student in [Computer Engineering](https://ceng.metu.edu.tr/) department of [Middle East Technical University](https://www.metu.edu.tr/tr). 
+- 🎓 Recent graduate of [Middle East Technical University](https://www.metu.edu.tr/tr)'s [Computer Engineering](https://ceng.metu.edu.tr/) department. 
 
-- 📍 Working as a part-time developer at [Otsimo](https://otsimo.com/en/).
+- 📍 Working as a Software Developer at [Otsimo](https://otsimo.com/en/).
 
 - ⚛ Learning responsive mobile development with React Native & Swift nowadays.
 
