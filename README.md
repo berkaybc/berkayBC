@@ -6,9 +6,7 @@
 
 - 📍 Working as a Software Developer at [Otsimo](https://otsimo.com/en/).
 
-- ⚛ Learning responsive mobile development with React Native & Swift nowadays.
-
-- 📧 React me at **cetin.bartug@metu.edu.tr**.
+- 📧 Contact me at **berkaybartugc@gmail.com**.
 
 
 <h3 align="left">Connect with me:</h3>
