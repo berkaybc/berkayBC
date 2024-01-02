@@ -2,9 +2,9 @@
 
 <br>
 
-- 🎓 Recent graduate of [Middle East Technical University](https://www.metu.edu.tr/tr)'s [Computer Engineering](https://ceng.metu.edu.tr/) department. 
+- 📍 Software Developer
 
-- 📍 Working as a Software Developer at [Otsimo](https://otsimo.com/en/).
+- 🎓 Recent graduate of [Middle East Technical University](https://www.metu.edu.tr/tr)'s [Computer Engineering](https://ceng.metu.edu.tr/) department. 
 
 - 📧 Contact me at **berkaybartugc@gmail.com**.
 
